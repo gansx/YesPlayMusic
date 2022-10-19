@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://music-steel-six.vercel.app/:match*"
+      "destination": "https://music-after.vercel.app/:match*"
     }
   ]
 }
