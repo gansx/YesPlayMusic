@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://music-after.vercel.app/:match*"
+      "destination": "http://musicapi-psi.vercel.app/:match*"
     }
   ]
 }
